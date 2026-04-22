@@ -1,5 +1,4 @@
 # NST DVA Capstone 2 - Project Repository
-
 > **Newton School of Technology | Data Visualization & Analytics**
 > A 2-week industry simulation capstone using Python, GitHub, and Tableau to convert raw data into actionable business intelligence.
 
